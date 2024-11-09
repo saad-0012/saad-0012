@@ -242,12 +242,6 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
       </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
     </tr>
   </tbody>
 </table>
@@ -258,21 +252,12 @@
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
+    
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
+      
     </tr>
   </tbody>
 </table>
