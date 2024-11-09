@@ -249,22 +249,6 @@
 
 
 
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
 
 <div align="center">
   <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -385,7 +369,7 @@
   <tr>
     <td colspan="3" align="center">
       <a href="mailto:saadshaikh121103@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=saadshaikh121103@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=saadshaikh121103@gmail.com&size=square" style="margin: 10px;">
       </a>
     </td>
 
