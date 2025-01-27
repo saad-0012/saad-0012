@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Coder | Tech Enthusiast
+  Coder | Tech Enthusiast | AI Ambitious
 </p>
 
 <div align="center">
